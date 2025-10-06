@@ -2,45 +2,65 @@
 
 ### Urokset
 
-#### Chulgilrim Drayvok – s. 14.4.2023 (2 v 6 kk)
+#### Chulgilrim Drayvok
+s. 14.4.2023 (2 v 6 kk)
 
-Lazot Benir – s. 9.8.2022 (3 v 2 kk)
+#### Lazot Benir
+s. 9.8.2022 (3 v 2 kk)
 
-Sholurkat Fyn – s. 21.1.2024 (1 v 8 kk)
+#### Sholurkat Fyn
+s. 21.1.2024 (1 v 8 kk)
 
-Drizazot Veyl – s. 2.5.2023 (2 v 5 kk)
+#### Drizazot Veyl
+s. 2.5.2023 (2 v 5 kk)
 
-Olass Thren – s. 27.3.2022 (3 v 7 kk)
+#### Olass Thren
+s. 27.3.2022 (3 v 7 kk)
 
-Stiayp Corven – s. 19.7.2023 (2 v 3 kk)
+#### Stiayp Corven
+s. 19.7.2023 (2 v 3 kk)
 
-Cott Draenor – s. 6.12.2024 (10 kk)
+#### Cott Draenor
+s. 6.12.2024 (10 kk)
 
-Biniay Krull – s. 12.8.2022 (3 v 2 kk)
+#### Biniay Krull
+s. 12.8.2022 (3 v 2 kk)
 
-Dringir Malvek – s. 29.5.2023 (2 v 4 kk)
+#### Dringir Malvek 
+s. 29.5.2023 (2 v 4 kk)
 
-Tirzoth Nahl – s. 18.2.2024 (1 v 7 kk)
+#### Tirzoth Nahl
+s. 18.2.2024 (1 v 7 kk)
 
-Korrin Olass – s. 7.9.2022 (3 v 1 kk)
+#### Korrin Olass
+s. 7.9.2022 (3 v 1 kk)
 
-Phayl Churlo – s. 25.11.2023 (1 v 11 kk)
+#### Phayl Churlo
+s. 25.11.2023 (1 v 11 kk)
 
-Rhazir Tolm – s. 5.4.2024 (1 v 6 kk)
+#### Rhazir Tolm
+s. 5.4.2024 (1 v 6 kk)
 
-Murric Stiayp – s. 15.6.2023 (2 v 4 kk)
+#### Murric Stiayp
+s. 15.6.2023 (2 v 4 kk)
 
-Dornak Eshil – s. 28.1.2022 (3 v 8 kk)
+#### Dornak Eshil
+s. 28.1.2022 (3 v 8 kk)
 
-Velkur Biniay – s. 10.9.2023 (2 v 1 kk)
+#### Velkur Biniay
+s. 10.9.2023 (2 v 1 kk)
 
-Truath Cottar – s. 3.3.2024 (1 v 7 kk)
+#### Truath Cottar
+s. 3.3.2024 (1 v 7 kk)
 
-Druvok Sholur – s. 8.12.2022 (2 v 10 kk)
+#### Druvok Sholur
+s. 8.12.2022 (2 v 10 kk)
 
-Halzir Threnn – s. 20.6.2023 (2 v 3 kk)
+#### Halzir Threnn
+s. 20.6.2023 (2 v 3 kk)
 
-Yorram Chulgil – s. 2.2.2024 (1 v 8 kk)
+#### Yorram Chulgil
+s. 2.2.2024 (1 v 8 kk)
 
 ### Nartut
 
