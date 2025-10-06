@@ -1,6 +1,6 @@
-##Vehnäterrieri
+## Vehnäterrieri
 
-Urokset
+### Urokset
 
 Chulgilrim Drayvok – s. 14.4.2023 (2 v 6 kk)
 
@@ -42,7 +42,7 @@ Halzir Threnn – s. 20.6.2023 (2 v 3 kk)
 
 Yorram Chulgil – s. 2.2.2024 (1 v 8 kk)
 
-Nartut
+### Nartut
 
 Ficha Tharme – s. 11.5.2023 (2 v 5 kk)
 
